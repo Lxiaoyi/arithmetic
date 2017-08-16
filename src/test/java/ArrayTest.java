@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 /**
- * Created by 28076 on 2017/8/8.
+ * Created by 小易 on 2017/8/8.
  */
 public class ArrayTest {
     public static void main(String[] args) {

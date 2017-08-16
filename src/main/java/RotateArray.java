@@ -1,6 +1,6 @@
 /**
  * 旋转数组（常见的几种方法）
- * Created by 28076 on 2017/8/8.
+ * Created by 小易 on 2017/8/8.
  */
 public class RotateArray {
     /**
